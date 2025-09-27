@@ -1,0 +1,8 @@
+Microsserviços aborda a arquitetura de uma aplicação de forma a terem serviços independentes que se comunicam por APIs.
+Arquitetura Monolítica é utilizada para aplicações que contem todo o seu conteudo em uma aplicação só, não possui divisão de serviços independentes.
+Já a arquitetura de microsserviços possui uma forma de organizar a aplicação em vários sistemas independentes.
+Benefícios da arquiteturade microsserviços:
+- Escalabilidade;
+- facilidade de implantação;
+- resiliência.
+Possui alguns tipos de comunicação: Comunicação por HTTP; Comunicação por Mensagens e Comunicação Orientada a Eventos.
